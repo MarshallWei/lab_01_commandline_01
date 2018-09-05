@@ -15,12 +15,13 @@ Follow the instructions line-by-line.
 ==========
 2. Create a directory called mtec1002.
 ----------
-
+ent-v314-010:mtec1002 student$ mkdir mtec1002
+ent-v314-010:mtec1002
 ==========
 3. Change your directory so that you're in mtec1002.
 ----------
-
-==========
+ent-v314-010:mtec1002 student$ mkdir mtec1002
+ent-v314-010:mtec1002 student$ cd mtec1002====
 4. Type:
 
 $ pwd
@@ -42,7 +43,9 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+-bash: $: command not found
+ent-v314-010:mtec1002 student$ $ ls
+-bash: $: command not found
 
 
 ==========
